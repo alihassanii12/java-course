@@ -1,7 +1,0 @@
-cat > .gitignore << 'EOF'
-.idea/
-*.iml
-out/
-target/
-*.class
-EOF
